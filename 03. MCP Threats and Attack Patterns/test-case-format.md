@@ -45,6 +45,9 @@ Every test in this chapter is written to the same shape so that a reader can run
 | 3.17 | Secrets and Credentials | `SECR` |
 | 3.18 | Resilience and Abuse | `ABUS` |
 | 3.19 | Privacy and Retention | `PRVC` |
+| 3.20 | Multi-Tenant and Cross-Tenant Isolation | `TNNT` |
+```
+
 
 ## Summary table
 
